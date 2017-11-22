@@ -1,0 +1,22 @@
+h1
+{
+	color: red;
+	font-size: 40px;
+	font-family: Comic Sans MS;
+	text-align: left;
+	border: 15px red ridge;
+	border-radius: 10px;
+	border-top-left-radius:
+}
+a
+{
+	color: orange;
+	font-size: 25px;
+	font-family: Comic Sans MS;
+	text-align: left;
+}
+body 
+{
+	background-image: url("20111228160058-ee480385.jpg");
+	background-image: fixed;
+}
